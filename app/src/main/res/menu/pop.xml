@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/cam"
+        android:orderInCategory="100"
+        android:title="Camera"/>
+    <item
+        android:id="@+id/webb"
+        android:orderInCategory="100"
+        android:title="Web"
+        />
+    <item
+        android:id="@+id/phn"
+        android:orderInCategory="100"
+        android:title="Phone"
+        />
+    <item
+        android:id="@+id/sms"
+        android:orderInCategory="100"
+        android:title="SMS"
+        />
+
+</menu>
